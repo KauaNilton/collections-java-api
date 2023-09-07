@@ -1,4 +1,4 @@
-package set.pesquisa.exercicio02;
+package set.pesquisa;
 
 public class Tarefa {
     private String descricao;

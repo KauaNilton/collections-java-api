@@ -1,4 +1,4 @@
-package list.ordenacao.exercicio01;
+package list.ordenacao;
 
 import java.util.ArrayList;
 import java.util.Collections;

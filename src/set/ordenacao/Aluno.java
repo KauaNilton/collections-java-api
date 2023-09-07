@@ -1,6 +1,4 @@
-package set.ordenacao.exercicio02;
-
-import set.ordenacao.exercicio01.Produto;
+package set.ordenacao;
 
 import java.util.Comparator;
 import java.util.Objects;

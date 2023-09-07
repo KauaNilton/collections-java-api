@@ -1,4 +1,4 @@
-package set.operacoesbasicas.exercicio01;
+package set.operacoesbasicas;
 
 import java.util.Objects;
 

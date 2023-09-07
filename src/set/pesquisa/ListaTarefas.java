@@ -1,7 +1,6 @@
-package set.pesquisa.exercicio02;
+package set.pesquisa;
 
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
 public class ListaTarefas {
