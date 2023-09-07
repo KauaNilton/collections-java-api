@@ -26,7 +26,7 @@ public class ListaTarefas {
             }
             tarefaSet.remove(tarefaParaRemover);
         } else {
-            System.out.println("A lista de tarefa está vazia!");
+            System.out.println("O conjunto de tarefa está vazio!");
         }
     }
 
@@ -76,7 +76,7 @@ public class ListaTarefas {
 
     public void limparListaTarefas() {
         if (tarefaSet.isEmpty()) {
-            System.out.println("A lista já está vazia!");
+            System.out.println("O conjunto de tarefa está vazio!");
         } else {
             tarefaSet.clear();
         }
