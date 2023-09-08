@@ -56,7 +56,7 @@ public class EstoqueProdutos {
         return produtoMaisBarato;
     }
 
-    // MANEIRA QUE EU RESOLVI
+    // MANEIRA QUE EU RESOLVI PORQUE NÃO CONHECIA O COMANDO MAP.ENTRY
    /* public Produto obterProdutoMaiorQuantidadeValorTotalNoEstoque() {
         Produto maiorPrecoEQuantidade = null;
         double maiorQuantEPreco = Double.MIN_VALUE;
